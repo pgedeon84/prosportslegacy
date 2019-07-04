@@ -1,0 +1,35 @@
+// Specific CSS for your home-page
+
+.logo {
+  width :20vh;
+  margin-left: 25px;
+  margin-top: 5px;
+}
+
+.image {
+  width: 48vh;
+}
+
+.youtube-video-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 13px;
+}
+
+.text-container {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 15px;
+  margin-top: 7px;
+
+  h5 {
+    color: #9c051f;
+  }
+}
