@@ -3,6 +3,8 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.6.3'
 
+# Use for Progressive Web Apps
+gem 'serviceworker-rails'
 # Auto Prefixer gem
 gem 'autoprefixer-rails'
 # Use for Fonts
