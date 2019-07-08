@@ -15,4 +15,3 @@
 //= require turbolinks
 //= require_tree .
 //= require serviceworker-companion
-//= stub serviceworker-companion
